@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prioritize Dev Tasks"
+  short_description: "Prioritize software development work"
+  default_prompt: "Use $prioritize-dev-tasks to prioritize these software development tasks and recommend an execution order."
