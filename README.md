@@ -4,6 +4,8 @@ Reusable Agent Skills for practical software project workflow decisions. The
 collection focuses on delivery risk, dependency blocking, engineering
 priorities, and maintainable execution plans.
 
+Repository: [KOKIdebuff/software-project-workflow-skills](https://github.com/KOKIdebuff/software-project-workflow-skills)
+
 ## Included Skill
 
 | Skill | Purpose | Status |
@@ -22,7 +24,7 @@ The core skill is a single portable `SKILL.md` source.
 |---|---|---|
 | Codex | Tested target | [Install for Codex](docs/install-codex.md) |
 | Claude Code | Structure-compatible with official Skills layout | [Install for Claude Code](docs/install-claude-code.md) |
-| OpenClaw | Structure-compatible and intended for ClawHub publication | [Install for OpenClaw](docs/install-openclaw.md) |
+| OpenClaw | Structure-compatible; ClawHub publication pending | [Install for OpenClaw](docs/install-openclaw.md) |
 | Hermes Agent | Structure-compatible with GitHub tap installation | [Install for Hermes](docs/install-hermes.md) |
 
 The skill instructions are written in English for portable distribution. The
