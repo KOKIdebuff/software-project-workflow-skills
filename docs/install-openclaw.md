@@ -1,13 +1,14 @@
 # Install For OpenClaw
 
 `prioritize-dev-tasks` is structured as an Agent Skill for OpenClaw and is
-prepared for distribution through ClawHub. The repository records format
-compatibility; OpenClaw runtime testing is not part of the initial local
-verification.
+published through ClawHub:
+
+[Prioritize Dev Tasks on ClawHub](https://clawhub.ai/kokidebuff/prioritize-dev-tasks)
+
+The repository records format compatibility; OpenClaw runtime testing is not
+part of the initial local verification.
 
 ## Install From ClawHub
-
-After the initial market release:
 
 ```bash
 openclaw skills install prioritize-dev-tasks

@@ -10,7 +10,7 @@ Repository: [KOKIdebuff/software-project-workflow-skills](https://github.com/KOK
 
 | Skill | Purpose | Status |
 |---|---|---|
-| [`prioritize-dev-tasks`](skills/prioritize-dev-tasks/SKILL.md) | Prioritize backlogs, bugs, technical debt, and release blockers by risk, dependencies, and value. | v1.0.0 |
+| [`prioritize-dev-tasks`](skills/prioritize-dev-tasks/SKILL.md) | Prioritize backlogs, bugs, technical debt, and release blockers by risk, dependencies, and value. | [v1.0.0 on ClawHub](https://clawhub.ai/kokidebuff/prioritize-dev-tasks) |
 
 `prioritize-dev-tasks` uses an Eisenhower-style quadrant view for presentation,
 while its execution order is driven by security and data risk, production
@@ -24,7 +24,7 @@ The core skill is a single portable `SKILL.md` source.
 |---|---|---|
 | Codex | Tested target | [Install for Codex](docs/install-codex.md) |
 | Claude Code | Structure-compatible with official Skills layout | [Install for Claude Code](docs/install-claude-code.md) |
-| OpenClaw | Structure-compatible; ClawHub publication pending | [Install for OpenClaw](docs/install-openclaw.md) |
+| OpenClaw | Published on ClawHub; runtime verification remains pending | [Install for OpenClaw](docs/install-openclaw.md) |
 | Hermes Agent | Structure-compatible with GitHub tap installation | [Install for Hermes](docs/install-hermes.md) |
 
 The skill instructions are written in English for portable distribution. The
